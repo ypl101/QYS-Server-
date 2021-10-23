@@ -3,16 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
-<!--    <servlet>-->
-<!--        <servlet-name>serverSocket</servlet-name>-->
-<!--        <servlet-class>com.ypl.StartServer</servlet-class>-->
-<!--        <load-on-startup>3</load-on-startup>　-->
-<!--    </servlet>-->
-<!--   -->
-<!--    <servlet-mapping>-->
-<!--        <servlet-name>serverSocket</servlet-name>-->
-<!--        <url-pattern>/TCPServer/*</url-pattern>-->
-<!--    </servlet-mapping>-->
+
 
     <servlet>
         <servlet-name>ServerSocket</servlet-name>
